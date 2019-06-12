@@ -1,0 +1,17 @@
+.amount{
+	padding: 5px;
+	border: 1px solid black;
+	width: 48%;
+	float:left;
+}
+.label{
+	padding: 5px;
+	width: 7%;
+	float: left;
+	border: 1px solid black;
+}
+.container{
+	border: 1px solid black;
+	padding: 3px;
+	overflow: hidden;
+}
